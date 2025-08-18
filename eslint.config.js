@@ -1,4 +1,4 @@
-// https://docs.expo.dev/
+// https://docs.expo.d
 const { defineConfig } = require('eslint/config');
 const expoConfig = require('eslint-config-expo/flat');
 
