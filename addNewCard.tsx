@@ -1,15 +1,3 @@
-// import React, { useState } from "react";
-// import {
-//   StyleSheet,
-//   Text,
-//   TextInput,
-//   TouchableOpacity,
-//   View,
-// } from "react-native";
-// import { BankCard } from "./card";
-
-// export default function AddNewCard() {
-//   const [cardColor, setCardColor] = useState("#027DFF");
 
 //   return (
 //     <View style={styles.container}>
@@ -74,46 +62,7 @@
 //   );
 // }
 
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     alignItems: "center",
-//     paddingTop: 55,
-//     backgroundColor: "#1c0120",
-//   },
-//   headerText: {
-//     color: "white",
-//     fontSize: 20,
-//     marginBottom: 40,
-//     textAlign: "center",
-//   },
-//   label: {
-//     fontSize: 15,
-//     color: "grey",
-//     marginBottom: 10,
-//     marginTop: 20,
-//   },
-//   smallLabel: {
-//     marginBottom: 10,
-//     color: "grey",
-//   },
-//   colorRow: {
-//     flexDirection: "row",
-//     gap: 10,
-//   },
-//   inputCommon: {
-//     borderWidth: 1,
-//     backgroundColor: "#3c293fff",
-//     borderRadius: 20,
-//     paddingHorizontal: 10,
-//     paddingVertical: 8,
-//     color: "white",
-//   },
-//   row: {
-//     flexDirection: "row",
-//     marginTop: 20,
-//   },
-// });
+
 
 import React, { useState } from "react";
 import {
@@ -267,3 +216,4 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
