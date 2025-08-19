@@ -12,8 +12,7 @@
 //         />
 //         <Text style={styles.label}>Color</Text>
 //         <View style={styles.colorRow}>
-//        
-//         </View>
+//            
 //         <Text style={styles.label}>Name</Text>
 //         <TextInput
 //           placeholder=""
@@ -201,6 +200,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
