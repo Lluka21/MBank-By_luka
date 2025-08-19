@@ -12,20 +12,7 @@
 //         />
 //         <Text style={styles.label}>Color</Text>
 //         <View style={styles.colorRow}>
-//           {["#e2bb3aff", "#731ec2ff", "#1d82d4ff"].map((color) => (
-//             <TouchableOpacity key={color} onPress={() => setCardColor(color)}>
-//               <View
-//                 style={{
-//                   backgroundColor: color,
-//                   width: 30,
-//                   height: 30,
-//                   borderRadius: 15,
-//                   borderWidth: cardColor === color ? 2 : 0,
-//                   borderColor: "white",
-//                 }}
-//               />
-//             </TouchableOpacity>
-//           ))}
+//        
 //         </View>
 //         <Text style={styles.label}>Name</Text>
 //         <TextInput
@@ -214,5 +201,6 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
