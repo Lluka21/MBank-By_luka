@@ -10,7 +10,7 @@
 //           backgroundColor={cardColor}
 //           style={{ borderRadius: 15 }}
 //         />
-//         <Text style={styles.label}>Color</Text>
+//         <Text style={styles.label>Color</Text>
 //         <View style={styles.colorRow}>
 //            
 //         <Text style={styles.label}>Name</Text>
@@ -200,6 +200,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
