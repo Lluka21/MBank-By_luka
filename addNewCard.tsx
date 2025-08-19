@@ -21,7 +21,7 @@
 //         />
 //         <Text style={styles.label}>Card Number</Text>
 //         <TextInput
-//           placeholder=""
+//           placeholde
 //           placeholderTextColor="purple"
 //           style={styles.inputCommon}
 //         />
@@ -31,7 +31,7 @@
 //             <TextInput
 //               placeholder=""
 //               placeholderTextColor="purple"
-//               style={styles.inputCommon}
+//               style=
 //             />
 //           </View>
 //           <View style={{ flex: 1, marginLeft: 20 }}>
@@ -200,6 +200,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
