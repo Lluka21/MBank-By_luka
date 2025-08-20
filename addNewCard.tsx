@@ -13,7 +13,7 @@
 //         <Text style={styles.label>Color</Text>
 //         <View style={styles.colorRow}>
 //            
-//         <Text style={styles.label}>Name</Text>
+//         <Text styt>
 //         <TextInput
 //           placeholder=""
 //           placeholderTextColor="purple"
@@ -200,6 +200,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
