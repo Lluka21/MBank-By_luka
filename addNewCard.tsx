@@ -21,7 +21,7 @@
 //         />
 //         <Text style={styles.label}>Card Number</Text>
 //         <TextInput
-//           placeholde
+//           
 //           placeholderTextColor="purple"
 //           style={styles.inputCommon}
 //         />
