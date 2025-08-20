@@ -11,7 +11,7 @@
 //           style={{ borderRadius: 15 }}
 //         /
 //         <Text style={styles.label>Color</Text>
-//         <View style={styles.
+//      
 //            
 //         <Text styt>
 //         <TextInput
@@ -199,6 +199,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
