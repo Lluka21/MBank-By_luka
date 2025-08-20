@@ -9,7 +9,7 @@
 //           number="* * * * * * * "
 //           backgroundColor={cardColor}
 //           style={{ borderRadius: 15 }}
-//         />
+//         /
 //         <Text style={styles.label>Color</Text>
 //         <View style={styles.colorRow}>
 //            
@@ -200,6 +200,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
