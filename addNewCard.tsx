@@ -37,7 +37,7 @@
 //             <Text style={styles.smallLabel}>Cvv</Text>
 //             <TextInput
 //               placeholder=""
-//               placeholderTextColor="purple"
+//               placeholderTextColor="purle"
 //               style={styles.inputCommon}
 //             />
 //           </View>
@@ -199,6 +199,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
