@@ -1,52 +1,4 @@
 
-//   return (
-//     <View style={styles.container}>
-//       <View>
-//         <Text style={styles.headerText}>Add New Card</Text>
-//         <BankCard
-//           title="VISA"
-//           rank="Platinum"
-//           number="* * * * * * * "
-//           backgroundColor={cardColor}
-//           style={{ borderRadius: 15 }}
-//         /
-//         <Text style={styles.label>Color</Text>
-//      
-//            
-//         <Text styt>
-//         <TextInput
-//           placeholder=""
-//           placeholderTextColor="purple"
-//           style={styles.inputCommon}
-//         />
-//         <Text style={styles.label}>Card Number</Text>
-//         <TextInput
-//            placeholderTextColor="purple"
-//           style={styles.inputCommon}
-//         />
-//         <View style={styles.row}>
-//           <View style={{ flex: 1 }}>
-//             <Text style={styles.smallLabel}>Valid Thu</Text>
-//             <TextInput
-//               placeholder=""
-//               placeholderTextColor="purple"
-//             
-//             />
-//           </View>
-//           <View style={{ flex: 1, marginLeft: 20 }}>
-//             <Text style={styles.smallLabel}>Cvv</Text>
-//             <TextInput
-//               placeholder=""
-//               placeholderTextColor="purle"
-//               style={styles.inputCommon}
-//             />
-//           </View>
-//         </View>
-//       </View>
-//     
-
-
-
 import React, { useState } from "react";
 import {
   StyleSheet,
@@ -199,6 +151,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
