@@ -58,7 +58,7 @@ export default function SendModal({
                     color: "white",
                     fontSize: 20,
                     paddingTop: 5,
-                    // wid
+                    // wi
                   }}
                 >
                   GMB00342123MB123
@@ -169,5 +169,6 @@ const styles = StyleSheet.create({
     fontStyle: "italic",
   },
 });
+
 
 
