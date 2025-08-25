@@ -107,7 +107,7 @@ export default function SendModal({
 const styles = StyleSheet.create({
   modalBackground: {
     flex: 1,
-    backgroundColor: "rgba(0, 0, 0, 0.5)", // dim the background
+    backgroundColor: "rgba(0, 0, 0, 0.5)",
     justifyContent: "center",
     padding: 20,
   },
@@ -121,4 +121,5 @@ const styles = StyleSheet.create({
     textAlign: "center",
   },
 });
+
 
