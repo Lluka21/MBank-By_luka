@@ -116,8 +116,9 @@ const styles = StyleSheet.create({
     backgroundColor: "#1c0120",
     borderRadius: 10,
     padding: 20,
-    width: "100%", // limit modal width
+    width: "100%",
     alignItems: "center",
     textAlign: "center",
   },
 });
+
