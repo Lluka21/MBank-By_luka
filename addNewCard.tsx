@@ -25,7 +25,6 @@ export default function AddNewCard() {
           style={{ borderRadius: 15 }}
         />
 
-        {/* Color Picker */}
         <Text style={styles.label}>Color</Text>
         <View style={{ flexDirection: "row", gap: 10 }}>
           <TouchableOpacity onPress={() => setCardColor("#e2bb3aff")}>
@@ -151,6 +150,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
