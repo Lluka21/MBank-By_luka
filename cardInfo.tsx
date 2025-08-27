@@ -10,8 +10,8 @@ import {
 import { BankCard } from "./card";
 
 export default function cardInfo() {
-
-  const active:number =
+ 
+  const active:number = 2
    
   return (
     <ScrollView
@@ -249,6 +249,7 @@ const styles = StyleSheet.create({
     width: 340,
   },
 });
+
 
 
 
