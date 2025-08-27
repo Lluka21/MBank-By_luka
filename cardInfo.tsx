@@ -11,8 +11,8 @@ import { BankCard } from "./card";
 
 export default function cardInfo() {
 
-  const
-  
+  const ac
+   
   return (
     <ScrollView
       style={styles.container}
@@ -249,4 +249,5 @@ const styles = StyleSheet.create({
     width: 340,
   },
 });
+
 
