@@ -1,4 +1,4 @@
-import { Ionicons } from "@expo/vector-icons";
+import { Ionicons } from "@expo/vector-icons";t
 import React from "react";
 import {
   ScrollView,
@@ -11,7 +11,7 @@ import { BankCard } from "./card";
 
 export default function cardInfo() {
 
-  const ac
+  const act
    
   return (
     <ScrollView
@@ -249,5 +249,6 @@ const styles = StyleSheet.create({
     width: 340,
   },
 });
+
 
 
