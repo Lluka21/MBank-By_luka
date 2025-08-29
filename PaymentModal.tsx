@@ -10,7 +10,7 @@ type SendModalProps = {
 export default function SendModal({
   visible,
   onClose,
-  selectedService,
+  selectedServic
 }: SendModalProps) {
   return (
     <Modal
