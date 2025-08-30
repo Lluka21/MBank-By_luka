@@ -149,6 +149,7 @@ const styles = StyleSheet.create({
     backgroundColor: "rgba(0, 0, 0, 0.5)",
     justifyContent: "center",
     padding: 20,
+    align
   },
   modalContent: {
     flexDirection: "column",
@@ -169,6 +170,7 @@ const styles = StyleSheet.create({
     fontStyle: "italic",
   },
 });
+
 
 
 
