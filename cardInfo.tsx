@@ -9,9 +9,7 @@ import {
 } from "react-native";
 import { BankCard } from "./card";
 
-export default function cardInfo() {
- 
-   
+export default function cardInfo() {  
   return (
     <ScrollView
       style={styles.container}
@@ -248,6 +246,7 @@ const styles = StyleSheet.create({
     width: 340,
   },
 });
+
 
 
 
