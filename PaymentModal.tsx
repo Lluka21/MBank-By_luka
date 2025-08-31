@@ -42,7 +42,7 @@ export default function SendModal({
                       textAlign: "center",
                     }}
                   >
-                    Pay With Cart
+                    Pay With Card
                   </Text>
                 </TouchableOpacity>
                 <TouchableOpacity>
@@ -121,5 +121,6 @@ const styles = StyleSheet.create({
     textAlign: "center",
   },
 });
+
 
 
