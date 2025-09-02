@@ -9,7 +9,6 @@ export default function TabsLayout() {
         tabBarInactiveTintColor: "grey",
         tabBarStyle: {
           backgroundColor: "#1c0120",
-
           borderTopWidth: 0,
         },
         headerShown: false,
@@ -58,3 +57,4 @@ export default function TabsLayout() {
     </Tabs>
   );
 }
+
