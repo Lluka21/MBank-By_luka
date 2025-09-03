@@ -3,7 +3,7 @@
 # depe
 node_modules/
 
-# Expo
+# Exp
 .expo/
 dist/
 web-build/
