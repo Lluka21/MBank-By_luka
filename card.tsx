@@ -27,7 +27,7 @@ export const BankCard = ({
   rank,
   number,
   backgroundColor,
-  styl
+  style
   
 }: BankCardProps) => (
   <View style={[styles.yourCardDesign, { backgroundColor }, style]}>
@@ -389,6 +389,7 @@ const styles = StyleSheet.create({
     color: "grey",
   },
 });
+
 
 
 
