@@ -1,7 +1,7 @@
 import React, { createContext, ReactNode, useState } from "react";
 
 type CalculateBalanceContextType = {
-  currentBalance: number
+  currentBalance: numbe
   setCurrentBalance: React.Dispatch<React.SetStateAction<number>>;
   formattedcurrBal: string;
   userInput: string;
@@ -48,4 +48,5 @@ export default function CalculateBalanceProvider({
     </CalculateBalanceContext.Provider>
   );
 }
+
 
