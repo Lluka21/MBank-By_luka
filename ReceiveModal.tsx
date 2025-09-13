@@ -8,7 +8,7 @@ type SendModalProps = {
 };
 
 export default function SendModal({
-  visibl,
+  visib,
   onClose,
   selectedService,
 }: SendModalProps) {
@@ -170,6 +170,7 @@ const styles = StyleSheet.create({
     fontStyle: "italic",
   },
 });
+
 
 
 
