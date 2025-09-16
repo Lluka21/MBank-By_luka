@@ -10,7 +10,7 @@ type SendModalProps = {
 export default function SendModal({
   visible,
   onClose,
-  selectedService
+  selectedService,
 }: SendModalProps) {
   return (
     <Modal
@@ -121,6 +121,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
   },
 });
+
 
 
 
