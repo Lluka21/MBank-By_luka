@@ -4,7 +4,7 @@ import { Modal, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 type SendModalProps = {
   visible: boolean;
   onClose: () => void;
-  selectedService: null | "send" | "eceive" | "topup" | "payment";
+  selectedService: null | "send" | "receive" | "topup" | "payment";
 };
 
 export default function SendModal({
@@ -121,6 +121,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
   },
 });
+
 
 
 
