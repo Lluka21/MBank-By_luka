@@ -17,7 +17,7 @@ export default function AddNewCard() {
       <View>
           /
         <Text style={styles.headerText}>Add  Card</Text>
-
+          /
         <BankCard
           title="VISA"
           rank="Platinum"
@@ -151,6 +151,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
