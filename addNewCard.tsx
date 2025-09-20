@@ -15,6 +15,7 @@ export default function AddNewCard() {
   return (
     <View style={styles.container}>
       <View>
+          /
         <Text style={styles.headerText}>Add  Card</Text>
 
         <BankCard
@@ -150,6 +151,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
 });
+
 
 
 
