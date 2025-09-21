@@ -8,7 +8,7 @@ type SendModalProps = {
 };
 
 export default function SendModal({
-  visib,
+  visible,
   onClose,
   selectedService,
 }: SendModalProps) {
