@@ -1,5 +1,4 @@
-import React, { createContext, ReactNode, useState } from "react";
-
+import React, { createContext, ReactNode, useState } from "react"
 
 type CalculateBalanceContextType = {
   currentBalance: number
@@ -49,6 +48,7 @@ export default function CalculateBalanceProvider({
     </CalculateBalanceContext.Provider>
   );
 }
+
 
 
 
