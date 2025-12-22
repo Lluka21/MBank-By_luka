@@ -1,6 +1,5 @@
 import React, { createContext, ReactNode, useState } from "react";
 
-
 type CalculateBalanceContextType = {
   currentBalance: number
   setCurrentBalance: React.Dispatch<React.SetStateAction<number>>;
