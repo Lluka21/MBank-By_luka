@@ -27,7 +27,7 @@ export default function SendModal({
   const context = useContext(CalculateBalanceContext);
 
   if (!context) {
-    throw new Err
+    throw new Error('Please fill correctly')
   }
 
   const {
@@ -212,5 +212,6 @@ const styles = StyleSheet.create({
     fontStyle: "italic",
   },
 });
+
 
 
