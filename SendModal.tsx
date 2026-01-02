@@ -27,7 +27,7 @@ export default function SendModal({
   const context = useContext(CalculateBalanceContext);
 
   if (!context) {
-    throw new 
+    throw new Err
   }
 
   const {
@@ -212,4 +212,5 @@ const styles = StyleSheet.create({
     fontStyle: "italic",
   },
 });
+
 
