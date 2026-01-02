@@ -27,7 +27,7 @@ export default function SendModal({
   const context = useContext(CalculateBalanceContext);
 
   if (!context) {
-    throw new Error("CalculateBalanceContext must be used within a provider");
+    throw
   }
 
   const {
