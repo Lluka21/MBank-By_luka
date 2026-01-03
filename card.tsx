@@ -387,6 +387,7 @@ const styles = StyleSheet.create({
   },
   namedActivityDateText: {
     color: "grey",
+    
   },
 });
 
